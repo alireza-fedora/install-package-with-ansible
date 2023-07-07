@@ -20,7 +20,7 @@ nano hosts
 ```
 
 قدم دوم:
-در دایرکتوری roles و در مسیر install-package > tasks فایل main.yml را باز کنید و نام پکیج های مد نظرتون رو وارد کنید:
+در دایرکتوری roles و در مسیر install-package > tasks فایل main.yml را باز کنید و نام پکیج مد نظرتون رو وارد کنید:
 ```
 
 vi roles/install-package/tasks/main.yml
