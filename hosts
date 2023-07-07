@@ -1,0 +1,14 @@
+[centos]
+IP or HOSTNAME   #ansible_port=1313
+IP or HOSTNAME   #ansible_port=1313
+
+[ubuntu]
+IP or HOSTNAME
+IP or HOSTNAME
+IP or HOSTNAME
+
+
+[DB]
+IP or HOSTNAME
+IP or HOSTNAME
+IP or HOSTNAME
