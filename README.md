@@ -13,6 +13,7 @@
 ### نحوه استفاده:
 واسه استفاده از این playbook در قدم اول فایل hosts رو با دستور زیر باز کنید و آدرس IP یا HOSTNAME های سرورها یا Remote Machin های مورد نظر خود تون رو اضافه نمایید:
 ```
+
 vi hosts
 or
 nano hosts
@@ -21,10 +22,18 @@ nano hosts
 قدم دوم:
 در دایرکتوری roles و در مسیر install-package > tasks فایل main.yml را باز کنید و نام پکیج های مد نظرتون رو وارد کنید:
 ```
+
 vi roles/install-package/tasks/main.yml
 ```
 حالا برای اجرای playbook دستور زیر رو اجرا کنید:
 ```
+
 ansible-playbook playbook.yml
 ```
+</div>
+<div dir=”rtl”>
+
+#با من در ارتباط باشید:
+آدرس پروژه:  [GitHub Pages](https://github.com/alireza-fedora/install-package-with-ansible)
+آدرس وبسایت: (https://fedorafans.com/author/alireza/)
 </div>
