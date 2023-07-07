@@ -33,7 +33,9 @@ ansible-playbook playbook.yml
 </div>
 <div dir=”rtl”>
 
-#با من در ارتباط باشید:
+# با من در ارتباط باشید:
+
 آدرس پروژه:  [GitHub Pages](https://github.com/alireza-fedora/install-package-with-ansible)
+
 آدرس وبسایت: (https://fedorafans.com/author/alireza/)
 </div>
