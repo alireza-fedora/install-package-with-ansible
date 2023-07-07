@@ -37,6 +37,10 @@ ansible-playbook playbook.yml
 
 
 </div>
-Project website: [GitHub Pages] (https://github.com/alireza-fedora/install-package-with-ansible/)
+Project website:(https://github.com/alireza-fedora/install-package-with-ansible/)
 
-Personal website: (https://fedorafans.com/author/alireza/)
+Personal website:(https://fedorafans.com/author/alireza/)
+
+Email: alireza.aghaee73@gmail.com
+
+Linkdin: (https://www.linkedin.com/in/alireza-aghaie/)
