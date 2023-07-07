@@ -35,7 +35,8 @@ ansible-playbook playbook.yml
 
 # با من در ارتباط باشید:
 
-آدرس پروژه:  [GitHub Pages](https://github.com/alireza-fedora/install-package-with-ansible)
 
-آدرس وبسایت: (https://fedorafans.com/author/alireza/)
 </div>
+Project website: [GitHub Pages](https://github.com/alireza-fedora/install-package-with-ansible/). 
+
+Personal website: (https://fedorafans.com/author/alireza/)
